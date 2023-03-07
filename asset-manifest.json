@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.caf8281a.js",
-    "static/js/787.9299fbbc.chunk.js": "/static/js/787.9299fbbc.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.caf8281a.js.map": "/static/js/main.caf8281a.js.map",
-    "787.9299fbbc.chunk.js.map": "/static/js/787.9299fbbc.chunk.js.map"
+    "main.css": "/shuydo.github.io/deploy_test/static/css/main.073c9b0a.css",
+    "main.js": "/shuydo.github.io/deploy_test/static/js/main.ff846faf.js",
+    "static/js/787.9299fbbc.chunk.js": "/shuydo.github.io/deploy_test/static/js/787.9299fbbc.chunk.js",
+    "static/media/logo.svg": "/shuydo.github.io/deploy_test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shuydo.github.io/deploy_test/index.html",
+    "main.073c9b0a.css.map": "/shuydo.github.io/deploy_test/static/css/main.073c9b0a.css.map",
+    "main.ff846faf.js.map": "/shuydo.github.io/deploy_test/static/js/main.ff846faf.js.map",
+    "787.9299fbbc.chunk.js.map": "/shuydo.github.io/deploy_test/static/js/787.9299fbbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.caf8281a.js"
+    "static/js/main.ff846faf.js"
   ]
 }
